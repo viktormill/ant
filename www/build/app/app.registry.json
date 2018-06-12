@@ -1,0 +1,16 @@
+{
+  "namespace": "App",
+  "fsNamespace": "app",
+  "loader": "../app.js",
+  "global": "app.global.js",
+  "core": "app.core.js",
+  "corePolyfilled": "app.core.pf.js",
+  "components": {
+    "ap-ant": {
+      "$": "ap-ant"
+    },
+    "ap-toggle-play": {
+      "$": "ap-toggle-play"
+    }
+  }
+}
